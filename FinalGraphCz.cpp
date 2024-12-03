@@ -1,3 +1,8 @@
+/** Programmers: Tri Tran
+* Date: 12/03/2024
+* Class: CS 4500
+* Summary: This file contains calculations and functions to graph the highest daily minute of each person from the log files.
+*/
 #include <iostream>
 #include <fstream>
 #include <sstream>
